@@ -1,0 +1,21 @@
+{
+    "ProfileTitle": "Профиль",
+    "Name": "Имя",
+    "RequiredName": "Поле обязательно для заполнения",
+    "Update": "Обновить",
+    "Menu_Bill": "Счет",
+    "Menu_History": "История",
+    "Menu_Planning": "Планирование",
+    "Menu_Record": "Новая запись",
+    "Menu_Categories": "Категории",
+    "NoCategoriesYet": "Категорий пока нет",
+    "Description": "Описание",
+    "Amount": "Сумма",
+    "Category": "Категория",
+    "RecordingWith": "Запись с",
+    "NotFound": "не найдено",
+    "NoCategoriesYet": "Описание",
+    "NoCategoriesYet": "Описание",
+    "NoCategoriesYet": "Описание",
+    "NoCategoriesYet": "Описание"
+}
